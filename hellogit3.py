@@ -1,1 +1,1 @@
-printf("Hola GIT 3, V3")
+print("Hola GIT 3, V3")
